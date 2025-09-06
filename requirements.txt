@@ -1,8 +1,8 @@
-import eventlet
-eventlet.monkey_patch()
-from flask import Flask, render_template
-from flask_socketio import SocketIO
-import time
-import threading
-import RPi.GPIO as GPIO
-import cv2
+eventlet
+Flask
+render_template
+SocketIO
+time
+threading
+RPi.GPIO
+cv2
